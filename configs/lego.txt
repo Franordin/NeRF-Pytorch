@@ -1,0 +1,7 @@
+datadir = .\data\nerf_synthetic\lego
+
+dataset_type = blender
+
+white_bkgd = True
+
+half_res = True
